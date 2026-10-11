@@ -1,6 +1,6 @@
 Video: https://drive.google.com/drive/folders/1IrKiqIdcHVJIUGdE-FDbR2bpOayaaiWf?usp=sharing
 
-# 🎓 Student Management System - Database Course Task 1
+# 🎓 Student Management System - Database Course Task1
 
 A simple console application that performs full **CRUD operations** on a Student database, built with **C#** and **PostgreSQL**.
 
